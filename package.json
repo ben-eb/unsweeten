@@ -1,6 +1,6 @@
 {
   "name": "unsweeten",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Transform require.js sugar syntax into the standard syntax.",
   "license": "MIT",
   "homepage": "https://github.com/ben-eb/unsweeten",
