@@ -1,0 +1,33 @@
+{
+  "name": "unsweeten",
+  "version": "0.0.0",
+  "description": "Transform require.js sugar syntax into the standard syntax.",
+  "license": "MIT",
+  "homepage": "https://github.com/ben-eb/unsweeten",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "therealbenbriggs@hotmail.com",
+    "url": "http://beneb.info"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ben-eb/unsweeten.git"
+  },
+  "keywords": [
+    "requirejs",
+    "require"
+  ],
+  "dependencies": {
+    "rocambole": "^0.3.6",
+    "rocambole-node-update": "^1.0.0",
+    "rocambole-token": "^1.2.1"
+  },
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2"
+  },
+  "main": "index.js"
+}
