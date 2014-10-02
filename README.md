@@ -55,7 +55,8 @@ For large projects using AMD, using `unsweeten` will help you cut down a signifi
 The best way to use this module is as a part of your `r.js` build step. Using the `onBuildWrite` function, you can apply extra transformations to your source code before it is minified. Below is an example configuration using gulp as a task runner:
 
 ```js
-var gulp      = require('gulp'),
+var path      = require('path'),
+    gulp      = require('gulp'),
     gutil     = require('gulp-util'),
     requirejs = require('requirejs'),
     unsweeten = require('unsweeten');
