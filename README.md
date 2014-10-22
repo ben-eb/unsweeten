@@ -1,4 +1,4 @@
-# unsweeten [![Build Status](https://travis-ci.org/ben-eb/unsweeten.svg?branch=master)](https://travis-ci.org/ben-eb/unsweeten) [![NPM version](https://badge.fury.io/js/unsweeten.svg)](http://badge.fury.io/js/unsweeten) [![Dependency Status](https://gemnasium.com/ben-eb/unsweeten.svg)](https://gemnasium.com/ben-eb/unsweeten)
+# unsweeten [![Build Status](https://travis-ci.org/ben-eb/unsweeten.svg?branch=master)](https://travis-ci.org/ben-eb/unsweeten) [![NPM version](https://badge.fury.io/js/unsweeten.svg)](http://badge.fury.io/js/unsweeten) [![Dependency Status](https://gemnasium.com/ben-eb/unsweeten.svg)](https://gemnasium.com/ben-eb/unsweeten) [![Coverage Status](https://img.shields.io/coveralls/ben-eb/unsweeten.svg)](https://coveralls.io/r/ben-eb/unsweeten)
 
 > Transform require.js sugar syntax into the standard syntax.
 
